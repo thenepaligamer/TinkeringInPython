@@ -23,9 +23,4 @@ match xs:
         shortenedlink = pyshorteners.Shortener()
         expandedLink = shortenedlink.tinyurl.expand(link)
         print("\nExpanded link is: "+expandedLink)
-        
-"""
-https://github.com/larymak/Python-project-Scripts
-https://www.askpython.com/python/examples/sudoku-solver-in-python
-"""
 
