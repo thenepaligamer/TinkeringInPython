@@ -54,5 +54,3 @@ convert_btn.grid(row=0, column=2)
 #run main
 
 main.mainloop()"""
-
-# https://www.askpython.com/python/examples/sudoku-solver-in-python
