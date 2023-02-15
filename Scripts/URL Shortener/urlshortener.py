@@ -2,9 +2,8 @@
 Before you run this project, remember to install pyshorteners
 pip install pyshorteners
 
-If pip is not installed then 
-sudo apt update
-pip install pyshorteners
+If this project doesn't run on your setup, make sure to check your python version.
+This requires Python 3.10 or greater to run.
 """
 
 import pyshorteners
