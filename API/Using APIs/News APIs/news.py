@@ -4,7 +4,7 @@ We are using newscatcher api for getting news
 
 import requests
 
-API_KEY = '4dxW8CeAvZjmx17UL1pi6RLamw6BV058P2BVD4zD-ZE'
+API_KEY = ''
 
 url = 'https://api.newscatcherapi.com/v2/search'
 
