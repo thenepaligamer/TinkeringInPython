@@ -5,7 +5,7 @@ We are using themoviedb for retrieving movie data
 import requests
 from pprint import pprint
 
-API_KEY = '348ba04d676ea0f56b13e794edbf05a0'
+API_KEY = ''
 
 query_params = {
     "limit": 10
